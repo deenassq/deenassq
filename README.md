@@ -10,7 +10,8 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
  
 <img align="left" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
 
-<br>
+</br>
+
 # 
 ### Stats
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deenassq&theme=blue-navy" alt="GitHub Streak" /></a>
