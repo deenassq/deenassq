@@ -14,4 +14,6 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
 
 # 
 ### Stats
+<div align="center" dir="auto" >
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deenassq&theme=blue-navy" alt="GitHub Streak" /></a>
+</div>
