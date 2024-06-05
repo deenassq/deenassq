@@ -1,5 +1,6 @@
 ### Deena | Artificial Intelligence
-I'm Deena, a passionate senior AI student currently engrossed in my capstone project, Bunnah. My passion is investigating the relationship between artificial intelligence and practical applications. I'm also learning more about deep learning and PHP, which is broadening my skill set.
+I'm Deena, a passionate AI graduate who successfully completed my capstone project, Bunnah. My passion lies in investigating the relationship between artificial intelligence and practical applications. My skill set includes machine learning, deep learning, natural language processing (NLP), and computer vision.
+
 
 
 #
