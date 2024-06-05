@@ -3,7 +3,7 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
 
 
 #
-### Connect with me:
+### Connect with me
 Deenassqq@gmail.com
 #
 www.linkedin.com/in/deena-alqahtani-0b419b280
