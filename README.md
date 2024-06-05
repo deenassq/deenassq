@@ -3,7 +3,10 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
 
 
 #
-
+### Connect with me:
+Deenassqq@gmil.com
+www.linkedin.com/in/deena-alqahtani-0b419b280
+#
 ### Tools and Languages 
 
 <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
