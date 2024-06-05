@@ -45,3 +45,7 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
 <div align="center" dir="auto" >
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=deenassq&theme=prussian" alt="GitHub Streak" /></a>
 </div>
+
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/deena-alqahtani-0b419b280) or [Email](mailto:Deenassqq@gmail.com).
+
