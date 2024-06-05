@@ -11,7 +11,7 @@ I'm Deena, a passionate senior AI student currently engrossed in my capstone pro
 <a href="https://www.linkedin.com/in/deena-alqahtani-0b419b280" target="_blank">
   <img align="left" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
-
+<br>
 #
 ### Tools and Languages 
 
